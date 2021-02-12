@@ -8,11 +8,11 @@ docker swarm init --advertise-addr 3.238.246.168
 
 docker swarm join-token manager
 
-docker swarm join --token SWMTKN-1-0elhq6rqfdguwxc7p4v64sdgizslufu538huuiln8di7949u5y-8vlsunf3q8z4gye9uaojyqdee 3.238.246.168:2377 --advertise-addr 3.238.202.149
+docker swarm join --token SWMTKN-1-668fkxbrq7bak5dkvkukzmiq19alemn2bteq0jbnbqs2o5249h-5p9hblhzacs9ayop2wfg69sfp 3.238.246.168:2377 --advertise-addr 3.238.202.149
 
-docker swarm join --token SWMTKN-1-0elhq6rqfdguwxc7p4v64sdgizslufu538huuiln8di7949u5y-8vlsunf3q8z4gye9uaojyqdee 3.238.246.168:2377 --advertise-addr 35.172.150.31
+docker swarm join --token SWMTKN-1-668fkxbrq7bak5dkvkukzmiq19alemn2bteq0jbnbqs2o5249h-5p9hblhzacs9ayop2wfg69sfp 3.238.246.168:2377 --advertise-addr 35.172.150.31
 
-docker swarm join --token SWMTKN-1-0elhq6rqfdguwxc7p4v64sdgizslufu538huuiln8di7949u5y-8vlsunf3q8z4gye9uaojyqdee 3.238.246.168:2377 --advertise-addr 18.204.220.139
+docker swarm join --token SWMTKN-1-668fkxbrq7bak5dkvkukzmiq19alemn2bteq0jbnbqs2o5249h-5p9hblhzacs9ayop2wfg69sfp 3.238.246.168:2377 --advertise-addr 18.204.220.139
 
 
 
